@@ -1,6 +1,10 @@
 # koch-recursive
 koch curve in processing, not using lsystems or arrays 
 
+see it working in the browser from the P5.js version
+
+https://github.com/greggelong/koch-recursiveJs
+
 ![kochR.png](kochR.png)
 
 ```processing
